@@ -13,3 +13,12 @@
 [![Downloads](https://img.shields.io/github/downloads/masarujp2022/Live-Streaming-Camera/total?label=Downloads&style=for-the-badge&color=lightgreen)](https://github.com/masarujp2022/Live-Streaming-Camera/releases)
 
 </div>
+
+---
+
+## 功能
+
+---
+
+## 我製作的其他程式
+- [Chat Overlay](https://github.com/masarujp2022/Chat-Overlay)：一個Android透明Youtube/Twitch聊天室overlay給直播使用。
