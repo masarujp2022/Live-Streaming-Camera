@@ -1,5 +1,5 @@
 <div align="center">
-<img src="pics/Logo.png" width="108" height="108">
+<img src="pics/logo.jpg" width="108" height="108">
 <h1>Live Streaming Camera 1.0</h1>
   
 一個中文 Android 直播程式。
