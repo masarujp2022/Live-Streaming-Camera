@@ -1,10 +1,14 @@
 <div align="center">
+  
 <h1>Live Streaming Camera</h1>
+  
 一個中文 Android 直播程式。
+
 <br><br>  
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://)
 [![Release](https://img.shields.io/github/release/masarujp2022/Live-Streaming-Camera?color=0000FF&label=Release&style=for-the-badge)](https://github.com/masarujp2022/Live-Streaming-Camera/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/masarujp2022/Live-Streaming-Camera/total?label=Downloads&style=for-the-badge&color=lightgreen)](https://github.com/masarujp2022/Live-Streaming-Camera/releases)
+
 </div>
