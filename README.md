@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1>Live Streaming Camera</h1>
+<h1>Live Streaming Camera 1.0</h1>
   
 一個中文 Android 直播程式。
 
